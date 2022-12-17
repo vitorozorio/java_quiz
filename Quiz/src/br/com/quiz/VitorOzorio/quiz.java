@@ -8,7 +8,7 @@ public class quiz {
         Scanner texto = new Scanner(System.in);
         int opcao ;
         int contador = 1;
-        Logica Adicionar = new Logica(1);
+        Logica Adicionar = new Logica(0);
 
         System.out.println("+-----------------------------------------------------------+");
         System.out.println("|vamos fazer um teste !!                                    |");
